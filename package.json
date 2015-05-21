@@ -1,0 +1,19 @@
+{
+  "name": "mocha-babel",
+  "version": "1.0.0",
+  "description": "A \"compiler\" plugin for Mocha that makes non-dependency JS files to pass through Babel",
+  "main": "index.js",
+  "repository": "jorgetolentinog/mocha-babel",
+  "keywords": [
+    "mocha",
+    "babel",
+    "es6",
+    "compiler"
+  ],
+  "author": "Jorge Tolentino <jorge.tolentino.g@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "babel": "*",
+    "babel-runtime": "*"
+  }
+}
